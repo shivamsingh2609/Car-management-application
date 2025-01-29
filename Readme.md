@@ -36,7 +36,7 @@ For detailed API documentation, please visit the following link:
 ## Live Application
 
 You can access the live application through the following link:
-- [https://car-management-application-seven.vercel.app/](https://car-management-application-seven.vercel.app/)
+- [https://car-management-application-khaki.vercel.app/](https://car-management-application-khaki.vercel.app/)
 
 ## Setup Instructions
 
